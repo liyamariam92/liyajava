@@ -10,5 +10,6 @@ public class Animal {
 public void col()
 {
 System.out.println("colour is red");
+System.out.println("colour");
 }
 }
